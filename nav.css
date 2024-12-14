@@ -1,0 +1,90 @@
+.navbar{
+    background-color: yellow;
+    gap: 50px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+   align-items: center;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    gap: 50px;
+}
+
+.h1{
+    align-items: center;
+}
+
+.navbar{
+ margin: 10px
+ padding:  10px;
+ box-sizing: content-box;
+}
+.row{
+    position: relative;
+}
+
+header{
+   /* background-image: url(basketball.jpg.jpg); */
+   padding-top: 5cap;
+   padding: 10px;
+   background-size: cover;
+   height: 100vh;
+}
+
+.wrapper{
+    background-color: white;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+     grid-template-rows: 10px 20px;
+}
+.ch{
+    background-color: lavender;
+    border: 2px solid;
+}
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 8;
+    background-color: white;
+    
+}
+
+.shoes{
+    display: flex;
+    justify-content: space-around;
+}
+
+.shoes1{
+    
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 15px;
+    width: 250px;
+}
+.imgtext{
+    background-image: url();
+}
+.shoes1 img{
+    /* height: 200px; */
+    width: 250px;
+}
+.navbar{
+    background-color: yellow;
+    gap: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+   align-items: center;
+}
+
+.navbar{
+    margin: 5px
+    padding:  5px;
+    box-sizing: content-box;
+   }
+
+
+   
